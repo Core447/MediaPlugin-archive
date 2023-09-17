@@ -1,5 +1,6 @@
 {
     "name": "Media",
     "description": "Control your media playback from all sources",
-    "version": "0.1"
+    "version": "0.1",
+    "thumbnail": "images/Thumbnail.png"
 }
